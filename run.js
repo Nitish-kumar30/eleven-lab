@@ -9,7 +9,7 @@ const { transcribeFile } = require('./lib/transcribe');
 const { loadVideos, markTranscribed, positionLabel, transcriptPaths } = require('./lib/videos');
 
 const ROOT = __dirname;
-const MANIFEST_PATH = path.join(ROOT, 'videos.json');
+const MANIFEST_PATH = path.join(ROOT, 'video2.json');
 const TRANSCRIPTS_DIR = path.join(ROOT, 'transcripts');
 const TMP_DIR = path.join(ROOT, 'tmp');
 const PORT = Number(process.env.PORT) || 3000;
@@ -252,7 +252,7 @@ async function main() {
   }
 
   if (!await pathExists(MANIFEST_PATH)) {
-    console.error('Stopped: videos.json was not found.');
+    console.error('Stopped: video2.json was not found.');
     process.exitCode = 1;
     return;
   }
@@ -260,7 +260,7 @@ async function main() {
   const videos = loadVideos(MANIFEST_PATH, TRANSCRIPTS_DIR);
   const withSources = videos.filter((video) => video.source);
   if (withSources.length === 0) {
-    console.error('Stopped: videos.json has no sources. Add a local path or https URL for each video.');
+    console.error('Stopped: video2.json has no sources. Add a local path or https URL for each video.');
     process.exitCode = 1;
     return;
   }
