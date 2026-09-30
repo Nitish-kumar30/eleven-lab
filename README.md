@@ -33,13 +33,13 @@ Start the token server:
 node server.js
 ```
 
-In another terminal, transcribe the first 3 videos (the default limit):
+In another terminal, transcribe the next video (the default limit is 1):
 
 ```bash
-node run.js --limit 3
+node run.js
 ```
 
-`run.js` starts the token server itself when it is not already listening. It stops after `--limit` videos (default 3).
+`run.js` starts the token server itself when it is not already listening. It stops after `--limit` videos (default 1), so each run continues with the next video that still needs a transcript.
 
 Outputs:
 

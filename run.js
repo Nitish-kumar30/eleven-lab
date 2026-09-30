@@ -6,7 +6,7 @@ const { spawn } = require('child_process');
 
 const { extractAudio, probeDurationSeconds } = require('./lib/extractAudio');
 const { transcribeFile } = require('./lib/transcribe');
-const { loadVideos, positionLabel, transcriptPaths } = require('./lib/videos');
+const { loadVideos, markTranscribed, positionLabel, transcriptPaths } = require('./lib/videos');
 
 const ROOT = __dirname;
 const MANIFEST_PATH = path.join(ROOT, 'videos.json');
@@ -18,7 +18,7 @@ const HEALTH_URL = `http://127.0.0.1:${PORT}/health`;
 
 function parseLimit(argv) {
   const index = argv.indexOf('--limit');
-  if (index === -1) return 3;
+  if (index === -1) return 1;
   const value = Number(argv[index + 1]);
   if (!Number.isInteger(value) || value < 1) {
     throw new Error('--limit must be a positive integer');
@@ -219,6 +219,7 @@ async function processVideo(video) {
     await fs.promises.mkdir(TRANSCRIPTS_DIR, { recursive: true });
     await fs.promises.writeFile(paths.jsonPath, `${JSON.stringify(transcript, null, 2)}\n`, 'utf8');
     await fs.promises.writeFile(paths.txtPath, text, 'utf8');
+    await markTranscribed(MANIFEST_PATH, video.id);
 
     return {
       ...base,
