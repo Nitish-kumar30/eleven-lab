@@ -1,0 +1,86 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Remove pepperoni pizza from my favorite.",
+  "words": [
+    {
+      "text": "Remove",
+      "start": 2.94,
+      "end": 3.5,
+      "type": "word",
+      "logprob": -0.03525760769844055
+    },
+    {
+      "text": " ",
+      "start": 3.5,
+      "end": 3.54,
+      "type": "spacing",
+      "logprob": -0.006660641171038151
+    },
+    {
+      "text": "pepperoni",
+      "start": 3.58,
+      "end": 4.12,
+      "type": "word",
+      "logprob": -0.006660641171038151
+    },
+    {
+      "text": " ",
+      "start": 4.12,
+      "end": 4.2,
+      "type": "spacing",
+      "logprob": -0.00015031162183731794
+    },
+    {
+      "text": "pizza",
+      "start": 4.22,
+      "end": 4.52,
+      "type": "word",
+      "logprob": -0.00015031162183731794
+    },
+    {
+      "text": " ",
+      "start": 4.52,
+      "end": 4.64,
+      "type": "spacing",
+      "logprob": -0.000010609570381348021
+    },
+    {
+      "text": "from",
+      "start": 4.64,
+      "end": 4.92,
+      "type": "word",
+      "logprob": -0.000010609570381348021
+    },
+    {
+      "text": " ",
+      "start": 4.92,
+      "end": 4.98,
+      "type": "spacing",
+      "logprob": -0.00007521823135903105
+    },
+    {
+      "text": "my",
+      "start": 4.98,
+      "end": 5.08,
+      "type": "word",
+      "logprob": -0.00007521823135903105
+    },
+    {
+      "text": " ",
+      "start": 5.08,
+      "end": 5.22,
+      "type": "spacing",
+      "logprob": -0.01835784688591957
+    },
+    {
+      "text": "favorite.",
+      "start": 5.22,
+      "end": 5.78,
+      "type": "word",
+      "logprob": -0.05509204003545973
+    }
+  ],
+  "transcription_id": "faVQK0OYe4ie5UjRHm3d",
+  "audio_duration_secs": 127.8506875
+}
