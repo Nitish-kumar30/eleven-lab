@@ -18,7 +18,7 @@ const HEALTH_URL = `http://127.0.0.1:${PORT}/health`;
 
 function parseLimit(argv) {
   const index = argv.indexOf('--limit');
-  if (index === -1) return 1;
+  if (index === -1) return null;
   const value = Number(argv[index + 1]);
   if (!Number.isInteger(value) || value < 1) {
     throw new Error('--limit must be a positive integer');
@@ -269,7 +269,7 @@ async function main() {
   // moves on to the next ones instead of re-reporting finished videos.
   const pending = videos.filter((video) => !video.skipReason);
   const alreadyDone = videos.length - pending.length;
-  const selected = pending.slice(0, limit);
+  const selected = limit == null ? pending : pending.slice(0, limit);
   if (alreadyDone > 0) {
     console.log(`Skipping ${alreadyDone} video(s) that already have a transcript.`);
   }
@@ -277,7 +277,8 @@ async function main() {
     console.log('Nothing left to transcribe.');
     return;
   }
-  console.log(`Processing ${selected.length} of ${pending.length} remaining video(s), last to first (limit ${limit}).`);
+  const scope = limit == null ? 'no limit' : `limit ${limit}`;
+  console.log(`Processing ${selected.length} of ${pending.length} remaining video(s), one at a time, last to first (${scope}).`);
 
   const server = await ensureServer();
   const results = [];

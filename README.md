@@ -33,13 +33,13 @@ Start the token server:
 node server.js
 ```
 
-In another terminal, transcribe the next video (the default limit is 1):
+In another terminal, transcribe every video that still needs a transcript. Each video is extracted, transcribed, and marked before the next one starts:
 
 ```bash
 node run.js
 ```
 
-`run.js` starts the token server itself when it is not already listening. It stops after `--limit` videos (default 1), so each run continues with the next video that still needs a transcript.
+`run.js` starts the token server itself when it is not already listening. Pass `--limit 2` to stop after two videos. A finished video is recorded in `transcribed.json`, not by rewriting `videos.json`. A later run skips those ids.
 
 Outputs:
 
