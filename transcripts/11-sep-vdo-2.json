@@ -1,0 +1,72 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Add pizza to my cart",
+  "words": [
+    {
+      "text": "Add",
+      "start": 2.52,
+      "end": 2.86,
+      "type": "word",
+      "logprob": -0.0019405120983719826
+    },
+    {
+      "text": " ",
+      "start": 2.86,
+      "end": 3.08,
+      "type": "spacing",
+      "logprob": -0.4398263096809387
+    },
+    {
+      "text": "pizza",
+      "start": 3.08,
+      "end": 3.52,
+      "type": "word",
+      "logprob": -0.4398263096809387
+    },
+    {
+      "text": " ",
+      "start": 3.52,
+      "end": 3.64,
+      "type": "spacing",
+      "logprob": -0.00004160317621426657
+    },
+    {
+      "text": "to",
+      "start": 3.64,
+      "end": 3.76,
+      "type": "word",
+      "logprob": -0.00004160317621426657
+    },
+    {
+      "text": " ",
+      "start": 3.76,
+      "end": 3.94,
+      "type": "spacing",
+      "logprob": -0.00007903263758635148
+    },
+    {
+      "text": "my",
+      "start": 3.94,
+      "end": 4.12,
+      "type": "word",
+      "logprob": -0.00007903263758635148
+    },
+    {
+      "text": " ",
+      "start": 4.12,
+      "end": 4.22,
+      "type": "spacing",
+      "logprob": -0.009141023270785809
+    },
+    {
+      "text": "cart",
+      "start": 4.22,
+      "end": 4.62,
+      "type": "word",
+      "logprob": -0.009141023270785809
+    }
+  ],
+  "transcription_id": "OSq5omRT3prk1z66Of0G",
+  "audio_duration_secs": 7.1893125
+}
