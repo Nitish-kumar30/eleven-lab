@@ -1,0 +1,86 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Add two sandwiches to my cart",
+  "words": [
+    {
+      "text": "Add",
+      "start": 0.62,
+      "end": 0.66,
+      "type": "word",
+      "logprob": -0.00007378782902378589
+    },
+    {
+      "text": " ",
+      "start": 0.66,
+      "end": 0.66,
+      "type": "spacing",
+      "logprob": -0.0000014305104514278355
+    },
+    {
+      "text": "two",
+      "start": 0.66,
+      "end": 0.82,
+      "type": "word",
+      "logprob": -0.0000014305104514278355
+    },
+    {
+      "text": " ",
+      "start": 0.82,
+      "end": 0.9,
+      "type": "spacing",
+      "logprob": -7.152555099310121e-7
+    },
+    {
+      "text": "sandwiches",
+      "start": 0.9,
+      "end": 1.72,
+      "type": "word",
+      "logprob": -7.152555099310121e-7
+    },
+    {
+      "text": " ",
+      "start": 1.72,
+      "end": 1.94,
+      "type": "spacing",
+      "logprob": -0.0004223884898237884
+    },
+    {
+      "text": "to",
+      "start": 1.94,
+      "end": 2.04,
+      "type": "word",
+      "logprob": -0.0004223884898237884
+    },
+    {
+      "text": " ",
+      "start": 2.04,
+      "end": 2.1,
+      "type": "spacing",
+      "logprob": -0.0000016689286894688848
+    },
+    {
+      "text": "my",
+      "start": 2.1,
+      "end": 2.22,
+      "type": "word",
+      "logprob": -0.0000016689286894688848
+    },
+    {
+      "text": " ",
+      "start": 2.22,
+      "end": 2.32,
+      "type": "spacing",
+      "logprob": -0.0000069141146923357155
+    },
+    {
+      "text": "cart",
+      "start": 2.32,
+      "end": 2.58,
+      "type": "word",
+      "logprob": -0.0000069141146923357155
+    }
+  ],
+  "transcription_id": "nbio9BP8HN9XKLnmIJxK",
+  "audio_duration_secs": 17.9626875
+}
