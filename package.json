@@ -1,0 +1,17 @@
+{
+  "name": "eleven-labs-transcribe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Transcribe local videos with ElevenLabs Speech-to-Text using single-use tokens.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "transcribe": "node run.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  }
+}
