@@ -1,0 +1,86 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Whether Pizza Hut is open now?",
+  "words": [
+    {
+      "text": "Whether",
+      "start": 0.88,
+      "end": 1.3,
+      "type": "word",
+      "logprob": -0.05448592081665993
+    },
+    {
+      "text": " ",
+      "start": 1.3,
+      "end": 1.46,
+      "type": "spacing",
+      "logprob": -0.0267377570271492
+    },
+    {
+      "text": "Pizza",
+      "start": 1.46,
+      "end": 1.84,
+      "type": "word",
+      "logprob": -0.0267377570271492
+    },
+    {
+      "text": " ",
+      "start": 1.84,
+      "end": 1.88,
+      "type": "spacing",
+      "logprob": -0.000979658798314631
+    },
+    {
+      "text": "Hut",
+      "start": 1.88,
+      "end": 2.12,
+      "type": "word",
+      "logprob": -0.000979658798314631
+    },
+    {
+      "text": " ",
+      "start": 2.12,
+      "end": 2.28,
+      "type": "spacing",
+      "logprob": -0.000025033637939486653
+    },
+    {
+      "text": "is",
+      "start": 2.28,
+      "end": 2.44,
+      "type": "word",
+      "logprob": -0.000025033637939486653
+    },
+    {
+      "text": " ",
+      "start": 2.44,
+      "end": 2.52,
+      "type": "spacing",
+      "logprob": -0.0000805822346592322
+    },
+    {
+      "text": "open",
+      "start": 2.52,
+      "end": 2.84,
+      "type": "word",
+      "logprob": -0.0000805822346592322
+    },
+    {
+      "text": " ",
+      "start": 2.84,
+      "end": 2.88,
+      "type": "spacing",
+      "logprob": -0.00013004888023715466
+    },
+    {
+      "text": "now?",
+      "start": 2.88,
+      "end": 3.12,
+      "type": "word",
+      "logprob": -0.017966234303457895
+    }
+  ],
+  "transcription_id": "0MTnDeOIIldgnKGRhSCU",
+  "audio_duration_secs": 14.5066875
+}
