@@ -184,6 +184,7 @@ async function processVideo(video) {
   const workDir = path.join(TMP_DIR, video.id);
   let downloadedPath = '';
   let audioPath = '';
+  const known = {};
 
   try {
     await fs.promises.mkdir(workDir, { recursive: true });
@@ -191,9 +192,11 @@ async function processVideo(video) {
     if (source.downloaded) downloadedPath = source.inputPath;
 
     const probed = await probeDurationSeconds(source.inputPath);
+    known.duration = formatDuration(probed);
     audioPath = path.join(workDir, `${video.id}.mp3`);
     await extractAudio(source.inputPath, audioPath);
     const audioStat = await fs.promises.stat(audioPath);
+    known.audioSize = formatBytes(audioStat.size);
 
     const transcript = await transcribeFile(audioPath, { tokenUrl: TOKEN_URL });
     const text = typeof transcript.text === 'string' ? transcript.text : '';
@@ -228,6 +231,7 @@ async function processVideo(video) {
   } catch (error) {
     return {
       ...base,
+      ...known,
       error: error && error.message ? error.message : String(error),
     };
   } finally {
@@ -260,8 +264,19 @@ async function main() {
     return;
   }
 
-  const selected = videos.slice(0, limit);
-  console.log(`Processing ${selected.length} video(s) from last to first (limit ${limit}).`);
+  // --limit counts only videos that still need a transcript, so re-running
+  // moves on to the next ones instead of re-reporting finished videos.
+  const pending = videos.filter((video) => !video.skipReason);
+  const alreadyDone = videos.length - pending.length;
+  const selected = pending.slice(0, limit);
+  if (alreadyDone > 0) {
+    console.log(`Skipping ${alreadyDone} video(s) that already have a transcript.`);
+  }
+  if (selected.length === 0) {
+    console.log('Nothing left to transcribe.');
+    return;
+  }
+  console.log(`Processing ${selected.length} of ${pending.length} remaining video(s), last to first (limit ${limit}).`);
 
   const server = await ensureServer();
   const results = [];
@@ -277,10 +292,10 @@ async function main() {
   }
 
   const failed = results.filter((result) => result.error).length;
-  const flagged = results.filter((result) => result.savedLocally.startsWith('skipped')).length;
+  const remaining = pending.length - selected.length;
   console.log('---');
-  console.log(`Finished ${results.length} video(s). Flagged existing transcripts: ${flagged}. Failed: ${failed}.`);
-  console.log('Stopped after the limit. Waiting for approval before processing the rest.');
+  console.log(`Finished ${results.length} video(s). Failed: ${failed}. Still remaining: ${remaining}.`);
+  if (remaining > 0) console.log('Stopped after the limit. Run again to continue with the next videos.');
   if (failed > 0) process.exitCode = 1;
 }
 
