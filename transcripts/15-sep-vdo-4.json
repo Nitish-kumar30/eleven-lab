@@ -1,0 +1,576 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Open the restaurant that has classic cheeseburger. The classic cheeseburger with goat's cheese is at Ocean View Burgers, which is closed right now. Opens at 12 South PM. Want me to open their menu anyway? Yes. Opening Ocean View Burgers now.",
+  "words": [
+    {
+      "text": "Open",
+      "start": 2.62,
+      "end": 2.9,
+      "type": "word",
+      "logprob": -0.00011419598013162613
+    },
+    {
+      "text": " ",
+      "start": 2.9,
+      "end": 2.94,
+      "type": "spacing",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": "the",
+      "start": 2.94,
+      "end": 3.04,
+      "type": "word",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": " ",
+      "start": 3.04,
+      "end": 3.08,
+      "type": "spacing",
+      "logprob": -0.0000034570634852570947
+    },
+    {
+      "text": "restaurant",
+      "start": 3.08,
+      "end": 3.74,
+      "type": "word",
+      "logprob": -0.0000034570634852570947
+    },
+    {
+      "text": " ",
+      "start": 3.74,
+      "end": 3.88,
+      "type": "spacing",
+      "logprob": -0.0000011920922133867862
+    },
+    {
+      "text": "that",
+      "start": 3.88,
+      "end": 4.12,
+      "type": "word",
+      "logprob": -0.0000011920922133867862
+    },
+    {
+      "text": " ",
+      "start": 4.12,
+      "end": 4.16,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "has",
+      "start": 4.16,
+      "end": 4.34,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 4.34,
+      "end": 4.46,
+      "type": "spacing",
+      "logprob": -0.005238734185695648
+    },
+    {
+      "text": "classic",
+      "start": 4.46,
+      "end": 4.92,
+      "type": "word",
+      "logprob": -0.005238734185695648
+    },
+    {
+      "text": " ",
+      "start": 4.92,
+      "end": 5.18,
+      "type": "spacing",
+      "logprob": -0.0025022882036864758
+    },
+    {
+      "text": "cheeseburger.",
+      "start": 5.18,
+      "end": 6,
+      "type": "word",
+      "logprob": -0.0035746078256824357
+    },
+    {
+      "text": " ",
+      "start": 6,
+      "end": 6.02,
+      "type": "spacing",
+      "logprob": -0.0018932766979560256
+    },
+    {
+      "text": "The",
+      "start": 14.42,
+      "end": 14.5,
+      "type": "word",
+      "logprob": -0.0007098776986822486
+    },
+    {
+      "text": " ",
+      "start": 14.5,
+      "end": 14.54,
+      "type": "spacing",
+      "logprob": -0.0007116645574569702
+    },
+    {
+      "text": "classic",
+      "start": 14.54,
+      "end": 14.92,
+      "type": "word",
+      "logprob": -0.0007116645574569702
+    },
+    {
+      "text": " ",
+      "start": 14.92,
+      "end": 14.98,
+      "type": "spacing",
+      "logprob": -0.002808675868436694
+    },
+    {
+      "text": "cheeseburger",
+      "start": 14.98,
+      "end": 15.58,
+      "type": "word",
+      "logprob": -0.0011704902280721778
+    },
+    {
+      "text": " ",
+      "start": 15.58,
+      "end": 15.68,
+      "type": "spacing",
+      "logprob": -0.0000015497195136049413
+    },
+    {
+      "text": "with",
+      "start": 15.68,
+      "end": 15.78,
+      "type": "word",
+      "logprob": -0.0000015497195136049413
+    },
+    {
+      "text": " ",
+      "start": 15.78,
+      "end": 15.88,
+      "type": "spacing",
+      "logprob": -0.0002008474839385599
+    },
+    {
+      "text": "goat's",
+      "start": 15.88,
+      "end": 16.18,
+      "type": "word",
+      "logprob": -0.00014490494989634803
+    },
+    {
+      "text": " ",
+      "start": 16.18,
+      "end": 16.219,
+      "type": "spacing",
+      "logprob": -0.000024676019165781327
+    },
+    {
+      "text": "cheese",
+      "start": 16.219,
+      "end": 16.64,
+      "type": "word",
+      "logprob": -0.000024676019165781327
+    },
+    {
+      "text": " ",
+      "start": 16.64,
+      "end": 16.78,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "is",
+      "start": 16.78,
+      "end": 16.86,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 16.86,
+      "end": 16.9,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "at",
+      "start": 16.9,
+      "end": 17.06,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 17.06,
+      "end": 17.12,
+      "type": "spacing",
+      "logprob": -0.000025748875486897305
+    },
+    {
+      "text": "Ocean",
+      "start": 17.12,
+      "end": 17.4,
+      "type": "word",
+      "logprob": -0.000025748875486897305
+    },
+    {
+      "text": " ",
+      "start": 17.4,
+      "end": 17.48,
+      "type": "spacing",
+      "logprob": -0.0004885195521637797
+    },
+    {
+      "text": "View",
+      "start": 17.48,
+      "end": 17.6,
+      "type": "word",
+      "logprob": -0.0004885195521637797
+    },
+    {
+      "text": " ",
+      "start": 17.6,
+      "end": 17.68,
+      "type": "spacing",
+      "logprob": -0.00047922570956870914
+    },
+    {
+      "text": "Burgers,",
+      "start": 17.68,
+      "end": 18.18,
+      "type": "word",
+      "logprob": -0.00043507203190529253
+    },
+    {
+      "text": " ",
+      "start": 18.18,
+      "end": 18.3,
+      "type": "spacing",
+      "logprob": -7.152555099310121e-7
+    },
+    {
+      "text": "which",
+      "start": 18.3,
+      "end": 18.42,
+      "type": "word",
+      "logprob": -7.152555099310121e-7
+    },
+    {
+      "text": " ",
+      "start": 18.42,
+      "end": 18.46,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "is",
+      "start": 18.46,
+      "end": 18.56,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 18.56,
+      "end": 18.6,
+      "type": "spacing",
+      "logprob": -0.0000010728830375228426
+    },
+    {
+      "text": "closed",
+      "start": 18.6,
+      "end": 18.88,
+      "type": "word",
+      "logprob": -0.0000010728830375228426
+    },
+    {
+      "text": " ",
+      "start": 18.88,
+      "end": 18.94,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "right",
+      "start": 18.94,
+      "end": 19.1,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 19.1,
+      "end": 19.14,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "now.",
+      "start": 19.14,
+      "end": 19.42,
+      "type": "word",
+      "logprob": -5.96046085377111e-7
+    },
+    {
+      "text": " ",
+      "start": 19.42,
+      "end": 19.66,
+      "type": "spacing",
+      "logprob": -0.0005237876321189106
+    },
+    {
+      "text": "Opens",
+      "start": 19.66,
+      "end": 20,
+      "type": "word",
+      "logprob": -0.0005237876321189106
+    },
+    {
+      "text": " ",
+      "start": 20,
+      "end": 20.02,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "at",
+      "start": 20.02,
+      "end": 20.12,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 20.12,
+      "end": 20.16,
+      "type": "spacing",
+      "logprob": -0.5772461891174316
+    },
+    {
+      "text": "12",
+      "start": 20.16,
+      "end": 20.46,
+      "type": "word",
+      "logprob": -5.364416608699685e-7
+    },
+    {
+      "text": " ",
+      "start": 20.46,
+      "end": 20.52,
+      "type": "spacing",
+      "logprob": -0.30469465255737305
+    },
+    {
+      "text": "South",
+      "start": 20.52,
+      "end": 20.74,
+      "type": "word",
+      "logprob": -0.30469465255737305
+    },
+    {
+      "text": " ",
+      "start": 20.74,
+      "end": 20.76,
+      "type": "spacing",
+      "logprob": -0.0019190958701074123
+    },
+    {
+      "text": "PM.",
+      "start": 20.76,
+      "end": 21.14,
+      "type": "word",
+      "logprob": -0.001285556336370064
+    },
+    {
+      "text": " ",
+      "start": 21.14,
+      "end": 21.4,
+      "type": "spacing",
+      "logprob": -0.000008583032467868179
+    },
+    {
+      "text": "Want",
+      "start": 21.4,
+      "end": 21.52,
+      "type": "word",
+      "logprob": -0.000008583032467868179
+    },
+    {
+      "text": " ",
+      "start": 21.52,
+      "end": 21.54,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "me",
+      "start": 21.56,
+      "end": 21.62,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 21.62,
+      "end": 21.64,
+      "type": "spacing",
+      "logprob": -0.000009536697689327411
+    },
+    {
+      "text": "to",
+      "start": 21.64,
+      "end": 21.72,
+      "type": "word",
+      "logprob": -0.000009536697689327411
+    },
+    {
+      "text": " ",
+      "start": 21.72,
+      "end": 21.78,
+      "type": "spacing",
+      "logprob": -0.000007867782187531702
+    },
+    {
+      "text": "open",
+      "start": 21.78,
+      "end": 21.96,
+      "type": "word",
+      "logprob": -0.000007867782187531702
+    },
+    {
+      "text": " ",
+      "start": 21.96,
+      "end": 22,
+      "type": "spacing",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": "their",
+      "start": 22,
+      "end": 22.1,
+      "type": "word",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": " ",
+      "start": 22.1,
+      "end": 22.14,
+      "type": "spacing",
+      "logprob": -0.000004529942543740617
+    },
+    {
+      "text": "menu",
+      "start": 22.14,
+      "end": 22.42,
+      "type": "word",
+      "logprob": -0.000004529942543740617
+    },
+    {
+      "text": " ",
+      "start": 22.42,
+      "end": 22.48,
+      "type": "spacing",
+      "logprob": -0.00002038458114839159
+    },
+    {
+      "text": "anyway?",
+      "start": 22.48,
+      "end": 22.92,
+      "type": "word",
+      "logprob": -0.000018017453840002418
+    },
+    {
+      "text": " ",
+      "start": 22.92,
+      "end": 22.92,
+      "type": "spacing",
+      "logprob": -0.000005602820692729438
+    },
+    {
+      "text": "Yes.",
+      "start": 25.06,
+      "end": 25.34,
+      "type": "word",
+      "logprob": -0.002964746431189269
+    },
+    {
+      "text": " ",
+      "start": 25.34,
+      "end": 25.36,
+      "type": "spacing",
+      "logprob": -0.000012397689715726301
+    },
+    {
+      "text": "Opening",
+      "start": 28.26,
+      "end": 28.54,
+      "type": "word",
+      "logprob": -0.0004932855372317135
+    },
+    {
+      "text": " ",
+      "start": 28.54,
+      "end": 28.64,
+      "type": "spacing",
+      "logprob": -0.00004660974445869215
+    },
+    {
+      "text": "Ocean",
+      "start": 28.64,
+      "end": 28.92,
+      "type": "word",
+      "logprob": -0.00004660974445869215
+    },
+    {
+      "text": " ",
+      "start": 28.92,
+      "end": 28.98,
+      "type": "spacing",
+      "logprob": -0.000029801878554280847
+    },
+    {
+      "text": "View",
+      "start": 28.98,
+      "end": 29.12,
+      "type": "word",
+      "logprob": -0.000029801878554280847
+    },
+    {
+      "text": " ",
+      "start": 29.12,
+      "end": 29.18,
+      "type": "spacing",
+      "logprob": -0.007692239712923765
+    },
+    {
+      "text": "Burgers",
+      "start": 29.18,
+      "end": 29.6,
+      "type": "word",
+      "logprob": -0.007692239712923765
+    },
+    {
+      "text": " ",
+      "start": 29.6,
+      "end": 29.7,
+      "type": "spacing",
+      "logprob": -0.000032066785934148356
+    },
+    {
+      "text": "now.",
+      "start": 29.7,
+      "end": 30,
+      "type": "word",
+      "logprob": -0.00045137779034121195
+    }
+  ],
+  "transcription_id": "fqAZwVPOhxdb2f7Yfbit",
+  "audio_duration_secs": 35.508375
+}

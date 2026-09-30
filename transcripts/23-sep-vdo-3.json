@@ -1,0 +1,282 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Add a classic cheese burger to my cart. I couldn't find any classic cheese burger in my place right now.",
+  "words": [
+    {
+      "text": "Add",
+      "start": 2.72,
+      "end": 3,
+      "type": "word",
+      "logprob": -0.005698506720364094
+    },
+    {
+      "text": " ",
+      "start": 3,
+      "end": 3.04,
+      "type": "spacing",
+      "logprob": -0.3162798583507538
+    },
+    {
+      "text": "a",
+      "start": 3.04,
+      "end": 3.08,
+      "type": "word",
+      "logprob": -0.3162798583507538
+    },
+    {
+      "text": " ",
+      "start": 3.08,
+      "end": 3.16,
+      "type": "spacing",
+      "logprob": -0.0008164886385202408
+    },
+    {
+      "text": "classic",
+      "start": 3.18,
+      "end": 3.7,
+      "type": "word",
+      "logprob": -0.0008164886385202408
+    },
+    {
+      "text": " ",
+      "start": 3.7,
+      "end": 3.8,
+      "type": "spacing",
+      "logprob": -0.06226975843310356
+    },
+    {
+      "text": "cheese",
+      "start": 3.8,
+      "end": 4.1,
+      "type": "word",
+      "logprob": -0.06226975843310356
+    },
+    {
+      "text": " ",
+      "start": 4.1,
+      "end": 4.24,
+      "type": "spacing",
+      "logprob": -0.001534000039100647
+    },
+    {
+      "text": "burger",
+      "start": 4.24,
+      "end": 4.64,
+      "type": "word",
+      "logprob": -0.001534000039100647
+    },
+    {
+      "text": " ",
+      "start": 4.64,
+      "end": 4.84,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "to",
+      "start": 4.84,
+      "end": 4.96,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 4.96,
+      "end": 5.02,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "my",
+      "start": 5.02,
+      "end": 5.2,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 5.2,
+      "end": 5.26,
+      "type": "spacing",
+      "logprob": -0.002916014287620783
+    },
+    {
+      "text": "cart.",
+      "start": 5.26,
+      "end": 5.64,
+      "type": "word",
+      "logprob": -0.002569135301746428
+    },
+    {
+      "text": " ",
+      "start": 5.64,
+      "end": 5.74,
+      "type": "spacing",
+      "logprob": -0.001035749795846641
+    },
+    {
+      "text": "I",
+      "start": 14.28,
+      "end": 14.34,
+      "type": "word",
+      "logprob": -0.005932342726737261
+    },
+    {
+      "text": " ",
+      "start": 14.34,
+      "end": 14.38,
+      "type": "spacing",
+      "logprob": -0.0002683041093405336
+    },
+    {
+      "text": "couldn't",
+      "start": 14.38,
+      "end": 14.62,
+      "type": "word",
+      "logprob": -0.0002012280820054002
+    },
+    {
+      "text": " ",
+      "start": 14.62,
+      "end": 14.66,
+      "type": "spacing",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": "find",
+      "start": 14.66,
+      "end": 14.86,
+      "type": "word",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": " ",
+      "start": 14.86,
+      "end": 14.88,
+      "type": "spacing",
+      "logprob": -0.0000019073468138230965
+    },
+    {
+      "text": "any",
+      "start": 14.9,
+      "end": 15.06,
+      "type": "word",
+      "logprob": -0.0000019073468138230965
+    },
+    {
+      "text": " ",
+      "start": 15.06,
+      "end": 15.12,
+      "type": "spacing",
+      "logprob": -0.0005204515182413161
+    },
+    {
+      "text": "classic",
+      "start": 15.12,
+      "end": 15.48,
+      "type": "word",
+      "logprob": -0.0005204515182413161
+    },
+    {
+      "text": " ",
+      "start": 15.48,
+      "end": 15.52,
+      "type": "spacing",
+      "logprob": -0.026531023904681206
+    },
+    {
+      "text": "cheese",
+      "start": 15.52,
+      "end": 15.76,
+      "type": "word",
+      "logprob": -0.026531023904681206
+    },
+    {
+      "text": " ",
+      "start": 15.76,
+      "end": 15.82,
+      "type": "spacing",
+      "logprob": -0.17999829351902008
+    },
+    {
+      "text": "burger",
+      "start": 15.82,
+      "end": 16.04,
+      "type": "word",
+      "logprob": -0.17999829351902008
+    },
+    {
+      "text": " ",
+      "start": 16.04,
+      "end": 16.36,
+      "type": "spacing",
+      "logprob": -0.7999389171600342
+    },
+    {
+      "text": "in",
+      "start": 16.36,
+      "end": 16.5,
+      "type": "word",
+      "logprob": -0.7999389171600342
+    },
+    {
+      "text": " ",
+      "start": 16.5,
+      "end": 16.56,
+      "type": "spacing",
+      "logprob": -0.9755409955978394
+    },
+    {
+      "text": "my",
+      "start": 16.56,
+      "end": 16.68,
+      "type": "word",
+      "logprob": -0.9755409955978394
+    },
+    {
+      "text": " ",
+      "start": 16.68,
+      "end": 16.76,
+      "type": "spacing",
+      "logprob": -0.3067730665206909
+    },
+    {
+      "text": "place",
+      "start": 16.76,
+      "end": 16.78,
+      "type": "word",
+      "logprob": -0.3067730665206909
+    },
+    {
+      "text": " ",
+      "start": 16.78,
+      "end": 16.78,
+      "type": "spacing",
+      "logprob": -0.000010609570381348021
+    },
+    {
+      "text": "right",
+      "start": 16.8,
+      "end": 16.96,
+      "type": "word",
+      "logprob": -0.000010609570381348021
+    },
+    {
+      "text": " ",
+      "start": 16.96,
+      "end": 16.98,
+      "type": "spacing",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": "now.",
+      "start": 17,
+      "end": 17.16,
+      "type": "word",
+      "logprob": -0.0011562185824232074
+    }
+  ],
+  "transcription_id": "jq314Xo85mAt0CTItTVl",
+  "audio_duration_secs": 32.8106875
+}

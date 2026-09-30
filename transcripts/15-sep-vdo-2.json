@@ -1,0 +1,338 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Remove pepperoni pizza from my favorite. I found the Cali pizza, but it's Pizza Hut, which is currently closed and opens tomorrow at midnight.",
+  "words": [
+    {
+      "text": "Remove",
+      "start": 3.38,
+      "end": 3.68,
+      "type": "word",
+      "logprob": -0.0015324526466429234
+    },
+    {
+      "text": " ",
+      "start": 3.68,
+      "end": 3.72,
+      "type": "spacing",
+      "logprob": -0.007408170960843563
+    },
+    {
+      "text": "pepperoni",
+      "start": 3.72,
+      "end": 4.16,
+      "type": "word",
+      "logprob": -0.007408170960843563
+    },
+    {
+      "text": " ",
+      "start": 4.16,
+      "end": 4.22,
+      "type": "spacing",
+      "logprob": -0.00023064337437972426
+    },
+    {
+      "text": "pizza",
+      "start": 4.22,
+      "end": 4.5,
+      "type": "word",
+      "logprob": -0.00023064337437972426
+    },
+    {
+      "text": " ",
+      "start": 4.5,
+      "end": 4.54,
+      "type": "spacing",
+      "logprob": -8.344646857949556e-7
+    },
+    {
+      "text": "from",
+      "start": 4.54,
+      "end": 4.74,
+      "type": "word",
+      "logprob": -8.344646857949556e-7
+    },
+    {
+      "text": " ",
+      "start": 4.74,
+      "end": 4.78,
+      "type": "spacing",
+      "logprob": -0.000003814689989667386
+    },
+    {
+      "text": "my",
+      "start": 4.78,
+      "end": 4.9,
+      "type": "word",
+      "logprob": -0.000003814689989667386
+    },
+    {
+      "text": " ",
+      "start": 4.9,
+      "end": 4.94,
+      "type": "spacing",
+      "logprob": -0.026764683425426483
+    },
+    {
+      "text": "favorite.",
+      "start": 4.96,
+      "end": 5.44,
+      "type": "word",
+      "logprob": -0.028600148028797574
+    },
+    {
+      "text": " ",
+      "start": 5.44,
+      "end": 5.48,
+      "type": "spacing",
+      "logprob": -0.0002711643755901605
+    },
+    {
+      "text": "I",
+      "start": 27.06,
+      "end": 27.16,
+      "type": "word",
+      "logprob": -0.00005829164365422912
+    },
+    {
+      "text": " ",
+      "start": 27.16,
+      "end": 27.2,
+      "type": "spacing",
+      "logprob": -0.0000020265558760002023
+    },
+    {
+      "text": "found",
+      "start": 27.2,
+      "end": 27.4,
+      "type": "word",
+      "logprob": -0.0000020265558760002023
+    },
+    {
+      "text": " ",
+      "start": 27.4,
+      "end": 27.42,
+      "type": "spacing",
+      "logprob": -0.0000358813522325363
+    },
+    {
+      "text": "the",
+      "start": 27.42,
+      "end": 27.52,
+      "type": "word",
+      "logprob": -0.0000358813522325363
+    },
+    {
+      "text": " ",
+      "start": 27.52,
+      "end": 27.56,
+      "type": "spacing",
+      "logprob": -0.005446950439363718
+    },
+    {
+      "text": "Cali",
+      "start": 27.56,
+      "end": 27.8,
+      "type": "word",
+      "logprob": -0.005446950439363718
+    },
+    {
+      "text": " ",
+      "start": 27.8,
+      "end": 27.9,
+      "type": "spacing",
+      "logprob": -0.47415751218795776
+    },
+    {
+      "text": "pizza,",
+      "start": 27.9,
+      "end": 28.32,
+      "type": "word",
+      "logprob": -0.3953817887813784
+    },
+    {
+      "text": " ",
+      "start": 28.32,
+      "end": 28.5,
+      "type": "spacing",
+      "logprob": -4.768370445162873e-7
+    },
+    {
+      "text": "but",
+      "start": 28.5,
+      "end": 28.58,
+      "type": "word",
+      "logprob": -4.768370445162873e-7
+    },
+    {
+      "text": " ",
+      "start": 28.58,
+      "end": 28.62,
+      "type": "spacing",
+      "logprob": -0.000036954195820726454
+    },
+    {
+      "text": "it's",
+      "start": 28.62,
+      "end": 28.8,
+      "type": "word",
+      "logprob": -0.00001865591178784598
+    },
+    {
+      "text": " ",
+      "start": 28.8,
+      "end": 28.84,
+      "type": "spacing",
+      "logprob": -0.0007122601964510977
+    },
+    {
+      "text": "Pizza",
+      "start": 28.84,
+      "end": 29.2,
+      "type": "word",
+      "logprob": -0.0007122601964510977
+    },
+    {
+      "text": " ",
+      "start": 29.2,
+      "end": 29.28,
+      "type": "spacing",
+      "logprob": -0.00014172980445437133
+    },
+    {
+      "text": "Hut,",
+      "start": 29.28,
+      "end": 29.48,
+      "type": "word",
+      "logprob": -0.0005884806523681618
+    },
+    {
+      "text": " ",
+      "start": 29.48,
+      "end": 29.66,
+      "type": "spacing",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": "which",
+      "start": 29.66,
+      "end": 29.8,
+      "type": "word",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": " ",
+      "start": 29.8,
+      "end": 29.84,
+      "type": "spacing",
+      "logprob": -0.000002145764938177308
+    },
+    {
+      "text": "is",
+      "start": 29.84,
+      "end": 29.96,
+      "type": "word",
+      "logprob": -0.000002145764938177308
+    },
+    {
+      "text": " ",
+      "start": 29.96,
+      "end": 30.02,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "currently",
+      "start": 30.02,
+      "end": 30.36,
+      "type": "word",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": " ",
+      "start": 30.36,
+      "end": 30.4,
+      "type": "spacing",
+      "logprob": -0.000002861018856492592
+    },
+    {
+      "text": "closed",
+      "start": 30.4,
+      "end": 30.88,
+      "type": "word",
+      "logprob": -0.000002861018856492592
+    },
+    {
+      "text": " ",
+      "start": 30.88,
+      "end": 30.96,
+      "type": "spacing",
+      "logprob": -0.000013112935448589269
+    },
+    {
+      "text": "and",
+      "start": 30.96,
+      "end": 31.06,
+      "type": "word",
+      "logprob": -0.000013112935448589269
+    },
+    {
+      "text": " ",
+      "start": 31.06,
+      "end": 31.14,
+      "type": "spacing",
+      "logprob": -0.0000016689286894688848
+    },
+    {
+      "text": "opens",
+      "start": 31.14,
+      "end": 31.5,
+      "type": "word",
+      "logprob": -0.0000016689286894688848
+    },
+    {
+      "text": " ",
+      "start": 31.5,
+      "end": 31.54,
+      "type": "spacing",
+      "logprob": -0.00000250339189733495
+    },
+    {
+      "text": "tomorrow",
+      "start": 31.54,
+      "end": 32.04,
+      "type": "word",
+      "logprob": -0.00000250339189733495
+    },
+    {
+      "text": " ",
+      "start": 32.04,
+      "end": 32.22,
+      "type": "spacing",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": "at",
+      "start": 32.22,
+      "end": 32.34,
+      "type": "word",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": " ",
+      "start": 32.34,
+      "end": 32.38,
+      "type": "spacing",
+      "logprob": -0.000003814689989667386
+    },
+    {
+      "text": "midnight.",
+      "start": 32.38,
+      "end": 32.96,
+      "type": "word",
+      "logprob": -0.004781361662834469
+    }
+  ],
+  "transcription_id": "FMsMjOvG5X4tgHPTdl5R",
+  "audio_duration_secs": 43.655
+}

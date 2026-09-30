@@ -1,0 +1,72 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Beach restaurants are open now.",
+  "words": [
+    {
+      "text": "Beach",
+      "start": 9.36,
+      "end": 9.6,
+      "type": "word",
+      "logprob": -0.6574690341949463
+    },
+    {
+      "text": " ",
+      "start": 9.6,
+      "end": 9.72,
+      "type": "spacing",
+      "logprob": -0.03473397344350815
+    },
+    {
+      "text": "restaurants",
+      "start": 9.72,
+      "end": 10.42,
+      "type": "word",
+      "logprob": -0.03473397344350815
+    },
+    {
+      "text": " ",
+      "start": 10.42,
+      "end": 10.46,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "are",
+      "start": 10.46,
+      "end": 10.62,
+      "type": "word",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": " ",
+      "start": 10.62,
+      "end": 10.68,
+      "type": "spacing",
+      "logprob": -0.00001645074735279195
+    },
+    {
+      "text": "open",
+      "start": 10.68,
+      "end": 11,
+      "type": "word",
+      "logprob": -0.00001645074735279195
+    },
+    {
+      "text": " ",
+      "start": 11,
+      "end": 11.04,
+      "type": "spacing",
+      "logprob": -0.000016093124941107817
+    },
+    {
+      "text": "now.",
+      "start": 11.04,
+      "end": 11.24,
+      "type": "word",
+      "logprob": -0.05643570040911072
+    }
+  ],
+  "transcription_id": "gFJx5q6ynOHRTZ8dvD17",
+  "audio_duration_secs": 17.5573125
+}

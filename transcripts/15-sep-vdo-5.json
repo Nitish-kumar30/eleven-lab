@@ -1,0 +1,268 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Show me the restaurant that has sandwiches. I didn't quite catch that. What would you like me to do?",
+  "words": [
+    {
+      "text": "Show",
+      "start": 2.54,
+      "end": 2.82,
+      "type": "word",
+      "logprob": -0.0005760917556472123
+    },
+    {
+      "text": " ",
+      "start": 2.82,
+      "end": 2.86,
+      "type": "spacing",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": "me",
+      "start": 2.86,
+      "end": 2.96,
+      "type": "word",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": " ",
+      "start": 2.96,
+      "end": 3.02,
+      "type": "spacing",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": "the",
+      "start": 3.02,
+      "end": 3.12,
+      "type": "word",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": " ",
+      "start": 3.12,
+      "end": 3.16,
+      "type": "spacing",
+      "logprob": -0.000010371154530730564
+    },
+    {
+      "text": "restaurant",
+      "start": 3.16,
+      "end": 3.88,
+      "type": "word",
+      "logprob": -0.000010371154530730564
+    },
+    {
+      "text": " ",
+      "start": 3.88,
+      "end": 4.059,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "that",
+      "start": 4.059,
+      "end": 4.32,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 4.32,
+      "end": 4.38,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "has",
+      "start": 4.38,
+      "end": 4.64,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 4.64,
+      "end": 4.7,
+      "type": "spacing",
+      "logprob": -0.000008940656698541716
+    },
+    {
+      "text": "sandwiches.",
+      "start": 4.7,
+      "end": 5.48,
+      "type": "word",
+      "logprob": -0.01639399199749195
+    },
+    {
+      "text": " ",
+      "start": 5.48,
+      "end": 5.48,
+      "type": "spacing",
+      "logprob": -0.0012034086976200342
+    },
+    {
+      "text": "I",
+      "start": 10.82,
+      "end": 10.86,
+      "type": "word",
+      "logprob": -0.00004005352093372494
+    },
+    {
+      "text": " ",
+      "start": 10.86,
+      "end": 10.9,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "didn't",
+      "start": 10.9,
+      "end": 11.08,
+      "type": "word",
+      "logprob": -3.973642511330885e-8
+    },
+    {
+      "text": " ",
+      "start": 11.08,
+      "end": 11.14,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "quite",
+      "start": 11.14,
+      "end": 11.32,
+      "type": "word",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": " ",
+      "start": 11.32,
+      "end": 11.38,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "catch",
+      "start": 11.4,
+      "end": 11.66,
+      "type": "word",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": " ",
+      "start": 11.66,
+      "end": 11.72,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "that.",
+      "start": 11.72,
+      "end": 11.94,
+      "type": "word",
+      "logprob": -0.000004148442161522325
+    },
+    {
+      "text": " ",
+      "start": 11.94,
+      "end": 12.18,
+      "type": "spacing",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": "What",
+      "start": 12.18,
+      "end": 12.28,
+      "type": "word",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": " ",
+      "start": 12.28,
+      "end": 12.32,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "would",
+      "start": 12.32,
+      "end": 12.42,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 12.42,
+      "end": 12.46,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "you",
+      "start": 12.46,
+      "end": 12.54,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 12.54,
+      "end": 12.58,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "like",
+      "start": 12.58,
+      "end": 12.74,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 12.74,
+      "end": 12.78,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "me",
+      "start": 12.78,
+      "end": 12.86,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 12.86,
+      "end": 12.9,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "to",
+      "start": 12.9,
+      "end": 12.98,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 12.98,
+      "end": 13.04,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "do?",
+      "start": 13.04,
+      "end": 13.22,
+      "type": "word",
+      "logprob": -0.000004529923288032478
+    }
+  ],
+  "transcription_id": "sqA14woTSn5rLek8XXRv",
+  "audio_duration_secs": 16.785
+}

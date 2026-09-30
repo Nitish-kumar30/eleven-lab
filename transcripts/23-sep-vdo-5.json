@@ -1,0 +1,590 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Add classic cheese burger to my cart. Add classic cheese burger to my cart. Added classic cheese burger with those cheese to your cart. Add one more classic cheese burger to my cart. Add one more classic cheese burger to my cart.",
+  "words": [
+    {
+      "text": "Add",
+      "start": 1.88,
+      "end": 2.16,
+      "type": "word",
+      "logprob": -0.011990495026111603
+    },
+    {
+      "text": " ",
+      "start": 2.16,
+      "end": 2.3,
+      "type": "spacing",
+      "logprob": -0.03825564682483673
+    },
+    {
+      "text": "classic",
+      "start": 2.3,
+      "end": 2.78,
+      "type": "word",
+      "logprob": -0.03825564682483673
+    },
+    {
+      "text": " ",
+      "start": 2.78,
+      "end": 2.84,
+      "type": "spacing",
+      "logprob": -0.0011518517276272178
+    },
+    {
+      "text": "cheese",
+      "start": 2.86,
+      "end": 3.16,
+      "type": "word",
+      "logprob": -0.0011518517276272178
+    },
+    {
+      "text": " ",
+      "start": 3.16,
+      "end": 3.28,
+      "type": "spacing",
+      "logprob": -0.004714800976216793
+    },
+    {
+      "text": "burger",
+      "start": 3.28,
+      "end": 3.76,
+      "type": "word",
+      "logprob": -0.004714800976216793
+    },
+    {
+      "text": " ",
+      "start": 3.76,
+      "end": 3.94,
+      "type": "spacing",
+      "logprob": -0.000005245195097813848
+    },
+    {
+      "text": "to",
+      "start": 3.94,
+      "end": 4.04,
+      "type": "word",
+      "logprob": -0.000005245195097813848
+    },
+    {
+      "text": " ",
+      "start": 4.04,
+      "end": 4.14,
+      "type": "spacing",
+      "logprob": -0.000008106198947643861
+    },
+    {
+      "text": "my",
+      "start": 4.14,
+      "end": 4.28,
+      "type": "word",
+      "logprob": -0.000008106198947643861
+    },
+    {
+      "text": " ",
+      "start": 4.28,
+      "end": 4.38,
+      "type": "spacing",
+      "logprob": -0.021258823573589325
+    },
+    {
+      "text": "cart.",
+      "start": 4.38,
+      "end": 4.78,
+      "type": "word",
+      "logprob": -0.017132570687681436
+    },
+    {
+      "text": " ",
+      "start": 4.78,
+      "end": 4.78,
+      "type": "spacing",
+      "logprob": -0.02422424964606762
+    },
+    {
+      "text": "Add",
+      "start": 9.06,
+      "end": 9.38,
+      "type": "word",
+      "logprob": -0.02422424964606762
+    },
+    {
+      "text": " ",
+      "start": 9.38,
+      "end": 9.68,
+      "type": "spacing",
+      "logprob": -0.00018940561858471483
+    },
+    {
+      "text": "classic",
+      "start": 9.68,
+      "end": 10.26,
+      "type": "word",
+      "logprob": -0.00018940561858471483
+    },
+    {
+      "text": " ",
+      "start": 10.26,
+      "end": 10.54,
+      "type": "spacing",
+      "logprob": -0.00004672895011026412
+    },
+    {
+      "text": "cheese",
+      "start": 10.54,
+      "end": 10.9,
+      "type": "word",
+      "logprob": -0.00004672895011026412
+    },
+    {
+      "text": " ",
+      "start": 10.9,
+      "end": 11.18,
+      "type": "spacing",
+      "logprob": -0.00010883215873036534
+    },
+    {
+      "text": "burger",
+      "start": 11.18,
+      "end": 11.64,
+      "type": "word",
+      "logprob": -0.00010883215873036534
+    },
+    {
+      "text": " ",
+      "start": 11.64,
+      "end": 11.8,
+      "type": "spacing",
+      "logprob": -0.0000016689286894688848
+    },
+    {
+      "text": "to",
+      "start": 12.28,
+      "end": 12.4,
+      "type": "word",
+      "logprob": -0.0000016689286894688848
+    },
+    {
+      "text": " ",
+      "start": 12.4,
+      "end": 12.46,
+      "type": "spacing",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": "my",
+      "start": 12.46,
+      "end": 12.62,
+      "type": "word",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": " ",
+      "start": 12.62,
+      "end": 12.72,
+      "type": "spacing",
+      "logprob": -0.00005125868119648658
+    },
+    {
+      "text": "cart.",
+      "start": 12.72,
+      "end": 13.14,
+      "type": "word",
+      "logprob": -0.00011142339499201626
+    },
+    {
+      "text": " ",
+      "start": 13.14,
+      "end": 13.14,
+      "type": "spacing",
+      "logprob": -0.009560277685523033
+    },
+    {
+      "text": "Added",
+      "start": 22.02,
+      "end": 22.26,
+      "type": "word",
+      "logprob": -0.004727733321487904
+    },
+    {
+      "text": " ",
+      "start": 22.26,
+      "end": 22.34,
+      "type": "spacing",
+      "logprob": -0.003415823681280017
+    },
+    {
+      "text": "classic",
+      "start": 22.34,
+      "end": 22.68,
+      "type": "word",
+      "logprob": -0.003415823681280017
+    },
+    {
+      "text": " ",
+      "start": 22.68,
+      "end": 22.74,
+      "type": "spacing",
+      "logprob": -0.00828981027007103
+    },
+    {
+      "text": "cheese",
+      "start": 22.74,
+      "end": 22.94,
+      "type": "word",
+      "logprob": -0.00828981027007103
+    },
+    {
+      "text": " ",
+      "start": 22.94,
+      "end": 23.02,
+      "type": "spacing",
+      "logprob": -0.00011503035057103261
+    },
+    {
+      "text": "burger",
+      "start": 23.02,
+      "end": 23.26,
+      "type": "word",
+      "logprob": -0.00011503035057103261
+    },
+    {
+      "text": " ",
+      "start": 23.26,
+      "end": 23.32,
+      "type": "spacing",
+      "logprob": -0.0011204162146896124
+    },
+    {
+      "text": "with",
+      "start": 23.32,
+      "end": 23.44,
+      "type": "word",
+      "logprob": -0.0011204162146896124
+    },
+    {
+      "text": " ",
+      "start": 23.44,
+      "end": 23.5,
+      "type": "spacing",
+      "logprob": -0.541222333908081
+    },
+    {
+      "text": "those",
+      "start": 23.52,
+      "end": 23.8,
+      "type": "word",
+      "logprob": -0.541222333908081
+    },
+    {
+      "text": " ",
+      "start": 23.8,
+      "end": 23.88,
+      "type": "spacing",
+      "logprob": -0.0008244690834544599
+    },
+    {
+      "text": "cheese",
+      "start": 23.88,
+      "end": 24.22,
+      "type": "word",
+      "logprob": -0.0008244690834544599
+    },
+    {
+      "text": " ",
+      "start": 24.22,
+      "end": 24.26,
+      "type": "spacing",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": "to",
+      "start": 24.26,
+      "end": 24.34,
+      "type": "word",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": " ",
+      "start": 24.34,
+      "end": 24.4,
+      "type": "spacing",
+      "logprob": -0.00006341733387671411
+    },
+    {
+      "text": "your",
+      "start": 24.4,
+      "end": 24.48,
+      "type": "word",
+      "logprob": -0.00006341733387671411
+    },
+    {
+      "text": " ",
+      "start": 24.48,
+      "end": 24.56,
+      "type": "spacing",
+      "logprob": -0.00007009260298218578
+    },
+    {
+      "text": "cart.",
+      "start": 24.56,
+      "end": 24.96,
+      "type": "word",
+      "logprob": -0.00007528969726990908
+    },
+    {
+      "text": " ",
+      "start": 24.96,
+      "end": 24.96,
+      "type": "spacing",
+      "logprob": -0.00007784063927829266
+    },
+    {
+      "text": "Add",
+      "start": 29.1,
+      "end": 29.38,
+      "type": "word",
+      "logprob": -0.00005674201020156033
+    },
+    {
+      "text": " ",
+      "start": 29.38,
+      "end": 29.6,
+      "type": "spacing",
+      "logprob": -0.0000641325386823155
+    },
+    {
+      "text": "one",
+      "start": 29.6,
+      "end": 29.82,
+      "type": "word",
+      "logprob": -0.0000641325386823155
+    },
+    {
+      "text": " ",
+      "start": 29.82,
+      "end": 29.92,
+      "type": "spacing",
+      "logprob": -0.00002098061486321967
+    },
+    {
+      "text": "more",
+      "start": 29.92,
+      "end": 30.16,
+      "type": "word",
+      "logprob": -0.00002098061486321967
+    },
+    {
+      "text": " ",
+      "start": 30.16,
+      "end": 30.36,
+      "type": "spacing",
+      "logprob": -0.0000811782301752828
+    },
+    {
+      "text": "classic",
+      "start": 30.36,
+      "end": 30.84,
+      "type": "word",
+      "logprob": -0.0000811782301752828
+    },
+    {
+      "text": " ",
+      "start": 30.84,
+      "end": 30.94,
+      "type": "spacing",
+      "logprob": -0.00010096516780322418
+    },
+    {
+      "text": "cheese",
+      "start": 30.94,
+      "end": 31.3,
+      "type": "word",
+      "logprob": -0.00010096516780322418
+    },
+    {
+      "text": " ",
+      "start": 31.3,
+      "end": 31.52,
+      "type": "spacing",
+      "logprob": -0.000023603161025675945
+    },
+    {
+      "text": "burger",
+      "start": 31.52,
+      "end": 32,
+      "type": "word",
+      "logprob": -0.000023603161025675945
+    },
+    {
+      "text": " ",
+      "start": 32,
+      "end": 32.119,
+      "type": "spacing",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": "to",
+      "start": 32.119,
+      "end": 32.28,
+      "type": "word",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": " ",
+      "start": 32.28,
+      "end": 32.32,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "my",
+      "start": 32.32,
+      "end": 32.52,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 32.52,
+      "end": 32.56,
+      "type": "spacing",
+      "logprob": -0.000029444261599564925
+    },
+    {
+      "text": "cart.",
+      "start": 32.56,
+      "end": 32.98,
+      "type": "word",
+      "logprob": -0.0000236507766885552
+    },
+    {
+      "text": " ",
+      "start": 32.98,
+      "end": 33.2,
+      "type": "spacing",
+      "logprob": -0.0010889797704294324
+    },
+    {
+      "text": "Add",
+      "start": 54.56,
+      "end": 54.9,
+      "type": "word",
+      "logprob": -0.0010889797704294324
+    },
+    {
+      "text": " ",
+      "start": 54.9,
+      "end": 55.14,
+      "type": "spacing",
+      "logprob": -0.00007092700980138034
+    },
+    {
+      "text": "one",
+      "start": 55.14,
+      "end": 55.36,
+      "type": "word",
+      "logprob": -0.00007092700980138034
+    },
+    {
+      "text": " ",
+      "start": 55.36,
+      "end": 55.48,
+      "type": "spacing",
+      "logprob": -0.0000017881377516459906
+    },
+    {
+      "text": "more",
+      "start": 55.48,
+      "end": 55.8,
+      "type": "word",
+      "logprob": -0.0000017881377516459906
+    },
+    {
+      "text": " ",
+      "start": 55.8,
+      "end": 56.02,
+      "type": "spacing",
+      "logprob": -0.00005578839045483619
+    },
+    {
+      "text": "classic",
+      "start": 56.02,
+      "end": 56.5,
+      "type": "word",
+      "logprob": -0.00005578839045483619
+    },
+    {
+      "text": " ",
+      "start": 56.5,
+      "end": 56.58,
+      "type": "spacing",
+      "logprob": -0.00012182447244413197
+    },
+    {
+      "text": "cheese",
+      "start": 56.58,
+      "end": 56.9,
+      "type": "word",
+      "logprob": -0.00012182447244413197
+    },
+    {
+      "text": " ",
+      "start": 56.9,
+      "end": 57.04,
+      "type": "spacing",
+      "logprob": -0.000021934269170742482
+    },
+    {
+      "text": "burger",
+      "start": 57.04,
+      "end": 57.5,
+      "type": "word",
+      "logprob": -0.000021934269170742482
+    },
+    {
+      "text": " ",
+      "start": 57.5,
+      "end": 57.76,
+      "type": "spacing",
+      "logprob": -0.0000029802276912960224
+    },
+    {
+      "text": "to",
+      "start": 57.76,
+      "end": 57.92,
+      "type": "word",
+      "logprob": -0.0000029802276912960224
+    },
+    {
+      "text": " ",
+      "start": 57.92,
+      "end": 57.98,
+      "type": "spacing",
+      "logprob": -0.0000010728830375228426
+    },
+    {
+      "text": "my",
+      "start": 57.98,
+      "end": 58.12,
+      "type": "word",
+      "logprob": -0.0000010728830375228426
+    },
+    {
+      "text": " ",
+      "start": 58.12,
+      "end": 58.24,
+      "type": "spacing",
+      "logprob": -0.00002586808113846928
+    },
+    {
+      "text": "cart.",
+      "start": 58.24,
+      "end": 58.64,
+      "type": "word",
+      "logprob": -0.00010691187926568091
+    }
+  ],
+  "transcription_id": "iy84MHWIMdc9BJJxyl7S",
+  "audio_duration_secs": 69.7813125
+}

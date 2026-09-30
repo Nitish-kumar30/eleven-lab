@@ -1,0 +1,422 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Add classic cheese burger to my cart. I found a classic cheeseburger with ghost cheese at Yoshi's Burgers for fifteen dollar ninety-nine. You want me to add it? Yes. Yes",
+  "words": [
+    {
+      "text": "Add",
+      "start": 2.66,
+      "end": 3,
+      "type": "word",
+      "logprob": -0.004822290502488613
+    },
+    {
+      "text": " ",
+      "start": 3,
+      "end": 3.16,
+      "type": "spacing",
+      "logprob": -0.0046235560439527035
+    },
+    {
+      "text": "classic",
+      "start": 3.16,
+      "end": 3.8,
+      "type": "word",
+      "logprob": -0.0046235560439527035
+    },
+    {
+      "text": " ",
+      "start": 3.8,
+      "end": 3.98,
+      "type": "spacing",
+      "logprob": -0.28151577711105347
+    },
+    {
+      "text": "cheese",
+      "start": 3.98,
+      "end": 4.34,
+      "type": "word",
+      "logprob": -0.28151577711105347
+    },
+    {
+      "text": " ",
+      "start": 4.34,
+      "end": 4.58,
+      "type": "spacing",
+      "logprob": -0.00034898388548754156
+    },
+    {
+      "text": "burger",
+      "start": 4.6,
+      "end": 5.06,
+      "type": "word",
+      "logprob": -0.00034898388548754156
+    },
+    {
+      "text": " ",
+      "start": 5.06,
+      "end": 5.36,
+      "type": "spacing",
+      "logprob": -7.152555099310121e-7
+    },
+    {
+      "text": "to",
+      "start": 5.36,
+      "end": 5.5,
+      "type": "word",
+      "logprob": -7.152555099310121e-7
+    },
+    {
+      "text": " ",
+      "start": 5.5,
+      "end": 5.56,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "my",
+      "start": 5.56,
+      "end": 5.72,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 5.72,
+      "end": 5.84,
+      "type": "spacing",
+      "logprob": -0.0067633045837283134
+    },
+    {
+      "text": "cart.",
+      "start": 5.84,
+      "end": 6.26,
+      "type": "word",
+      "logprob": -0.00569282746873796
+    },
+    {
+      "text": " ",
+      "start": 6.26,
+      "end": 6.26,
+      "type": "spacing",
+      "logprob": -0.003357489826157689
+    },
+    {
+      "text": "I",
+      "start": 15.96,
+      "end": 16.04,
+      "type": "word",
+      "logprob": -0.0336461178958416
+    },
+    {
+      "text": " ",
+      "start": 16.04,
+      "end": 16.079,
+      "type": "spacing",
+      "logprob": -0.000015258672647178173
+    },
+    {
+      "text": "found",
+      "start": 16.079,
+      "end": 16.26,
+      "type": "word",
+      "logprob": -0.000015258672647178173
+    },
+    {
+      "text": " ",
+      "start": 16.26,
+      "end": 16.3,
+      "type": "spacing",
+      "logprob": -0.0011701886542141438
+    },
+    {
+      "text": "a",
+      "start": 16.3,
+      "end": 16.36,
+      "type": "word",
+      "logprob": -0.0011701886542141438
+    },
+    {
+      "text": " ",
+      "start": 16.36,
+      "end": 16.4,
+      "type": "spacing",
+      "logprob": -0.00005090107151772827
+    },
+    {
+      "text": "classic",
+      "start": 16.4,
+      "end": 16.78,
+      "type": "word",
+      "logprob": -0.00005090107151772827
+    },
+    {
+      "text": " ",
+      "start": 16.78,
+      "end": 16.84,
+      "type": "spacing",
+      "logprob": -0.34858691692352295
+    },
+    {
+      "text": "cheeseburger",
+      "start": 16.84,
+      "end": 17.36,
+      "type": "word",
+      "logprob": -0.14524920779596565
+    },
+    {
+      "text": " ",
+      "start": 17.36,
+      "end": 17.44,
+      "type": "spacing",
+      "logprob": -0.00001549708758830093
+    },
+    {
+      "text": "with",
+      "start": 17.44,
+      "end": 17.54,
+      "type": "word",
+      "logprob": -0.00001549708758830093
+    },
+    {
+      "text": " ",
+      "start": 17.54,
+      "end": 17.6,
+      "type": "spacing",
+      "logprob": -0.4822954535484314
+    },
+    {
+      "text": "ghost",
+      "start": 17.6,
+      "end": 17.86,
+      "type": "word",
+      "logprob": -0.4822954535484314
+    },
+    {
+      "text": " ",
+      "start": 17.86,
+      "end": 17.94,
+      "type": "spacing",
+      "logprob": -0.29131659865379333
+    },
+    {
+      "text": "cheese",
+      "start": 17.94,
+      "end": 18.3,
+      "type": "word",
+      "logprob": -0.29131659865379333
+    },
+    {
+      "text": " ",
+      "start": 18.3,
+      "end": 18.36,
+      "type": "spacing",
+      "logprob": -0.00006949660019017756
+    },
+    {
+      "text": "at",
+      "start": 18.36,
+      "end": 18.46,
+      "type": "word",
+      "logprob": -0.00006949660019017756
+    },
+    {
+      "text": " ",
+      "start": 18.46,
+      "end": 18.52,
+      "type": "spacing",
+      "logprob": -1.0201021432876587
+    },
+    {
+      "text": "Yoshi's",
+      "start": 18.52,
+      "end": 19.08,
+      "type": "word",
+      "logprob": -0.7455026720251345
+    },
+    {
+      "text": " ",
+      "start": 19.08,
+      "end": 19.14,
+      "type": "spacing",
+      "logprob": -0.21710826456546783
+    },
+    {
+      "text": "Burgers",
+      "start": 19.14,
+      "end": 19.56,
+      "type": "word",
+      "logprob": -0.21710826456546783
+    },
+    {
+      "text": " ",
+      "start": 19.56,
+      "end": 19.72,
+      "type": "spacing",
+      "logprob": -0.000014424220353248529
+    },
+    {
+      "text": "for",
+      "start": 19.72,
+      "end": 19.86,
+      "type": "word",
+      "logprob": -0.000014424220353248529
+    },
+    {
+      "text": " ",
+      "start": 19.86,
+      "end": 19.94,
+      "type": "spacing",
+      "logprob": -0.1465321183204651
+    },
+    {
+      "text": "fifteen",
+      "start": 19.94,
+      "end": 20.36,
+      "type": "word",
+      "logprob": -0.1465321183204651
+    },
+    {
+      "text": " ",
+      "start": 20.36,
+      "end": 20.44,
+      "type": "spacing",
+      "logprob": -0.9893190860748291
+    },
+    {
+      "text": "dollar",
+      "start": 20.44,
+      "end": 20.66,
+      "type": "word",
+      "logprob": -0.9893190860748291
+    },
+    {
+      "text": " ",
+      "start": 20.66,
+      "end": 20.74,
+      "type": "spacing",
+      "logprob": -0.012721811421215534
+    },
+    {
+      "text": "ninety-nine.",
+      "start": 20.74,
+      "end": 21.24,
+      "type": "word",
+      "logprob": -0.017262391086343126
+    },
+    {
+      "text": " ",
+      "start": 21.24,
+      "end": 21.52,
+      "type": "spacing",
+      "logprob": -0.0025638823863118887
+    },
+    {
+      "text": "You",
+      "start": 21.52,
+      "end": 21.54,
+      "type": "word",
+      "logprob": -0.0025638823863118887
+    },
+    {
+      "text": " ",
+      "start": 21.54,
+      "end": 21.54,
+      "type": "spacing",
+      "logprob": -0.000009298280929215252
+    },
+    {
+      "text": "want",
+      "start": 21.54,
+      "end": 21.66,
+      "type": "word",
+      "logprob": -0.000009298280929215252
+    },
+    {
+      "text": " ",
+      "start": 21.66,
+      "end": 21.68,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "me",
+      "start": 21.68,
+      "end": 21.76,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 21.76,
+      "end": 21.78,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "to",
+      "start": 21.78,
+      "end": 21.86,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 21.86,
+      "end": 21.9,
+      "type": "spacing",
+      "logprob": -4.768370445162873e-7
+    },
+    {
+      "text": "add",
+      "start": 21.9,
+      "end": 22.08,
+      "type": "word",
+      "logprob": -4.768370445162873e-7
+    },
+    {
+      "text": " ",
+      "start": 22.08,
+      "end": 22.12,
+      "type": "spacing",
+      "logprob": -3.576278118089249e-7
+    },
+    {
+      "text": "it?",
+      "start": 22.12,
+      "end": 22.32,
+      "type": "word",
+      "logprob": -2.7815496868773454e-7
+    },
+    {
+      "text": " ",
+      "start": 22.32,
+      "end": 22.32,
+      "type": "spacing",
+      "logprob": -0.00005972207145532593
+    },
+    {
+      "text": "Yes.",
+      "start": 25.44,
+      "end": 25.74,
+      "type": "word",
+      "logprob": -0.00007396572979700977
+    },
+    {
+      "text": " ",
+      "start": 25.74,
+      "end": 25.74,
+      "type": "spacing",
+      "logprob": -0.000017404405298293568
+    },
+    {
+      "text": "Yes",
+      "start": 33.92,
+      "end": 34.22,
+      "type": "word",
+      "logprob": -0.000017404405298293568
+    }
+  ],
+  "transcription_id": "YDL0fVhazGtMfVgisatD",
+  "audio_duration_secs": 39.9146875
+}

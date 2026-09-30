@@ -1,0 +1,226 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Clear my favorite. I didn't quite catch that. Could you clarify what you'd like to do?",
+  "words": [
+    {
+      "text": "Clear",
+      "start": 6.54,
+      "end": 6.96,
+      "type": "word",
+      "logprob": -0.007291018031537533
+    },
+    {
+      "text": " ",
+      "start": 6.96,
+      "end": 7.08,
+      "type": "spacing",
+      "logprob": -0.00004672895011026412
+    },
+    {
+      "text": "my",
+      "start": 7.08,
+      "end": 7.32,
+      "type": "word",
+      "logprob": -0.00004672895011026412
+    },
+    {
+      "text": " ",
+      "start": 7.32,
+      "end": 7.48,
+      "type": "spacing",
+      "logprob": -0.007786398753523827
+    },
+    {
+      "text": "favorite.",
+      "start": 7.48,
+      "end": 8.06,
+      "type": "word",
+      "logprob": -0.007470972473836607
+    },
+    {
+      "text": " ",
+      "start": 8.06,
+      "end": 8.08,
+      "type": "spacing",
+      "logprob": -0.0020818482153117657
+    },
+    {
+      "text": "I",
+      "start": 16.9,
+      "end": 16.98,
+      "type": "word",
+      "logprob": -0.00013982271775603294
+    },
+    {
+      "text": " ",
+      "start": 16.98,
+      "end": 17.02,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "didn't",
+      "start": 17.02,
+      "end": 17.24,
+      "type": "word",
+      "logprob": -2.980231042689259e-7
+    },
+    {
+      "text": " ",
+      "start": 17.24,
+      "end": 17.3,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "quite",
+      "start": 17.3,
+      "end": 17.52,
+      "type": "word",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": " ",
+      "start": 17.52,
+      "end": 17.58,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "catch",
+      "start": 17.58,
+      "end": 17.86,
+      "type": "word",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": " ",
+      "start": 17.86,
+      "end": 17.92,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "that.",
+      "start": 17.92,
+      "end": 18.22,
+      "type": "word",
+      "logprob": -7.867801230077021e-7
+    },
+    {
+      "text": " ",
+      "start": 18.22,
+      "end": 18.44,
+      "type": "spacing",
+      "logprob": -0.0000015497195136049413
+    },
+    {
+      "text": "Could",
+      "start": 18.44,
+      "end": 18.58,
+      "type": "word",
+      "logprob": -0.0000015497195136049413
+    },
+    {
+      "text": " ",
+      "start": 18.58,
+      "end": 18.62,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "you",
+      "start": 18.62,
+      "end": 18.7,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 18.7,
+      "end": 18.74,
+      "type": "spacing",
+      "logprob": -0.000003933898824470816
+    },
+    {
+      "text": "clarify",
+      "start": 18.74,
+      "end": 19.32,
+      "type": "word",
+      "logprob": -0.000003933898824470816
+    },
+    {
+      "text": " ",
+      "start": 19.32,
+      "end": 19.42,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "what",
+      "start": 19.42,
+      "end": 19.56,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 19.56,
+      "end": 19.6,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "you'd",
+      "start": 19.6,
+      "end": 19.7,
+      "type": "word",
+      "logprob": -2.384185648907078e-8
+    },
+    {
+      "text": " ",
+      "start": 19.7,
+      "end": 19.74,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "like",
+      "start": 19.74,
+      "end": 19.88,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 19.88,
+      "end": 19.94,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "to",
+      "start": 19.94,
+      "end": 20.02,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 20.02,
+      "end": 20.08,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "do?",
+      "start": 20.08,
+      "end": 20.34,
+      "type": "word",
+      "logprob": -0.0000029007466461431855
+    }
+  ],
+  "transcription_id": "PTvNcXITcTy7n4ib5g8z",
+  "audio_duration_secs": 27.088375
+}

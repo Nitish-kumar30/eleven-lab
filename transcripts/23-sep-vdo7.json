@@ -1,0 +1,79 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Which restaurants are open now? ",
+  "words": [
+    {
+      "text": "Which",
+      "start": 9.38,
+      "end": 9.6,
+      "type": "word",
+      "logprob": -0.013534686528146267
+    },
+    {
+      "text": " ",
+      "start": 9.6,
+      "end": 9.72,
+      "type": "spacing",
+      "logprob": -0.0079181594774127
+    },
+    {
+      "text": "restaurants",
+      "start": 9.72,
+      "end": 10.42,
+      "type": "word",
+      "logprob": -0.0079181594774127
+    },
+    {
+      "text": " ",
+      "start": 10.42,
+      "end": 10.46,
+      "type": "spacing",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": "are",
+      "start": 10.46,
+      "end": 10.6,
+      "type": "word",
+      "logprob": -1.1920928244535389e-7
+    },
+    {
+      "text": " ",
+      "start": 10.6,
+      "end": 10.66,
+      "type": "spacing",
+      "logprob": -0.000012040065485052764
+    },
+    {
+      "text": "open",
+      "start": 10.68,
+      "end": 11,
+      "type": "word",
+      "logprob": -0.000012040065485052764
+    },
+    {
+      "text": " ",
+      "start": 11,
+      "end": 11.04,
+      "type": "spacing",
+      "logprob": -2.3841855067985307e-7
+    },
+    {
+      "text": "now?",
+      "start": 11.04,
+      "end": 11.24,
+      "type": "word",
+      "logprob": -0.0000067054374781605475
+    },
+    {
+      "text": " ",
+      "start": 11.24,
+      "end": 11.24,
+      "type": "spacing",
+      "logprob": -0.02975226752460003
+    }
+  ],
+  "transcription_id": "6vFfK4AcgBvZDVR3CDYY",
+  "audio_duration_secs": 17.5573125
+}

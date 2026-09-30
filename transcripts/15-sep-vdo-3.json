@@ -1,0 +1,422 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Save pepperoni pizza to my favorite. Save pepperoni pizza to my favorite. Save pepperoni pizza to my favorite. Save pepperoni pizza to my favorite. Save pepperoni pizza to my favorite.",
+  "words": [
+    {
+      "text": "Save",
+      "start": 3.22,
+      "end": 3.48,
+      "type": "word",
+      "logprob": -0.013570908457040787
+    },
+    {
+      "text": " ",
+      "start": 3.48,
+      "end": 3.54,
+      "type": "spacing",
+      "logprob": -0.011803782545030117
+    },
+    {
+      "text": "pepperoni",
+      "start": 3.56,
+      "end": 4.1,
+      "type": "word",
+      "logprob": -0.011803782545030117
+    },
+    {
+      "text": " ",
+      "start": 4.1,
+      "end": 4.16,
+      "type": "spacing",
+      "logprob": -0.0009218971827067435
+    },
+    {
+      "text": "pizza",
+      "start": 4.16,
+      "end": 4.56,
+      "type": "word",
+      "logprob": -0.0009218971827067435
+    },
+    {
+      "text": " ",
+      "start": 4.56,
+      "end": 4.64,
+      "type": "spacing",
+      "logprob": -0.00001168244216387393
+    },
+    {
+      "text": "to",
+      "start": 4.64,
+      "end": 4.84,
+      "type": "word",
+      "logprob": -0.00001168244216387393
+    },
+    {
+      "text": " ",
+      "start": 4.84,
+      "end": 4.92,
+      "type": "spacing",
+      "logprob": -0.000047801782784517854
+    },
+    {
+      "text": "my",
+      "start": 4.92,
+      "end": 5.12,
+      "type": "word",
+      "logprob": -0.000047801782784517854
+    },
+    {
+      "text": " ",
+      "start": 5.12,
+      "end": 5.2,
+      "type": "spacing",
+      "logprob": -0.31560981273651123
+    },
+    {
+      "text": "favorite.",
+      "start": 5.2,
+      "end": 5.74,
+      "type": "word",
+      "logprob": -0.28060077069353107
+    },
+    {
+      "text": " ",
+      "start": 5.74,
+      "end": 5.74,
+      "type": "spacing",
+      "logprob": -0.023585831746459007
+    },
+    {
+      "text": "Save",
+      "start": 9.44,
+      "end": 9.72,
+      "type": "word",
+      "logprob": -0.023585831746459007
+    },
+    {
+      "text": " ",
+      "start": 9.72,
+      "end": 9.76,
+      "type": "spacing",
+      "logprob": -0.0000032186455882765586
+    },
+    {
+      "text": "pepperoni",
+      "start": 9.76,
+      "end": 10.24,
+      "type": "word",
+      "logprob": -0.0000032186455882765586
+    },
+    {
+      "text": " ",
+      "start": 10.24,
+      "end": 10.3,
+      "type": "spacing",
+      "logprob": -0.000012636104656849056
+    },
+    {
+      "text": "pizza",
+      "start": 10.3,
+      "end": 10.64,
+      "type": "word",
+      "logprob": -0.000012636104656849056
+    },
+    {
+      "text": " ",
+      "start": 10.64,
+      "end": 10.7,
+      "type": "spacing",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": "to",
+      "start": 10.7,
+      "end": 10.82,
+      "type": "word",
+      "logprob": -0.000001311301275563892
+    },
+    {
+      "text": " ",
+      "start": 10.82,
+      "end": 10.94,
+      "type": "spacing",
+      "logprob": -0.000006556489552167477
+    },
+    {
+      "text": "my",
+      "start": 10.94,
+      "end": 11.12,
+      "type": "word",
+      "logprob": -0.000006556489552167477
+    },
+    {
+      "text": " ",
+      "start": 11.12,
+      "end": 11.2,
+      "type": "spacing",
+      "logprob": -0.0001510267611593008
+    },
+    {
+      "text": "favorite.",
+      "start": 11.2,
+      "end": 11.64,
+      "type": "word",
+      "logprob": -0.00013559704034883503
+    },
+    {
+      "text": " ",
+      "start": 11.64,
+      "end": 11.64,
+      "type": "spacing",
+      "logprob": -0.0004917366313748062
+    },
+    {
+      "text": "Save",
+      "start": 17.12,
+      "end": 17.34,
+      "type": "word",
+      "logprob": -0.0004917366313748062
+    },
+    {
+      "text": " ",
+      "start": 17.34,
+      "end": 17.38,
+      "type": "spacing",
+      "logprob": -0.0000014305104514278355
+    },
+    {
+      "text": "pepperoni",
+      "start": 17.38,
+      "end": 17.84,
+      "type": "word",
+      "logprob": -0.0000014305104514278355
+    },
+    {
+      "text": " ",
+      "start": 17.84,
+      "end": 17.88,
+      "type": "spacing",
+      "logprob": -0.00000834461570775602
+    },
+    {
+      "text": "pizza",
+      "start": 17.88,
+      "end": 18.3,
+      "type": "word",
+      "logprob": -0.00000834461570775602
+    },
+    {
+      "text": " ",
+      "start": 18.3,
+      "end": 18.42,
+      "type": "spacing",
+      "logprob": -0.000002861018856492592
+    },
+    {
+      "text": "to",
+      "start": 18.42,
+      "end": 18.54,
+      "type": "word",
+      "logprob": -0.000002861018856492592
+    },
+    {
+      "text": " ",
+      "start": 18.54,
+      "end": 18.58,
+      "type": "spacing",
+      "logprob": -0.0000010728830375228426
+    },
+    {
+      "text": "my",
+      "start": 18.58,
+      "end": 18.76,
+      "type": "word",
+      "logprob": -0.0000010728830375228426
+    },
+    {
+      "text": " ",
+      "start": 18.76,
+      "end": 18.84,
+      "type": "spacing",
+      "logprob": -0.000038265450712060556
+    },
+    {
+      "text": "favorite.",
+      "start": 18.84,
+      "end": 19.42,
+      "type": "word",
+      "logprob": -0.00003577536841071883
+    },
+    {
+      "text": " ",
+      "start": 19.42,
+      "end": 19.42,
+      "type": "spacing",
+      "logprob": -0.0003351603518240154
+    },
+    {
+      "text": "Save",
+      "start": 23.14,
+      "end": 23.38,
+      "type": "word",
+      "logprob": -0.0003351603518240154
+    },
+    {
+      "text": " ",
+      "start": 23.38,
+      "end": 23.46,
+      "type": "spacing",
+      "logprob": -0.000002145764938177308
+    },
+    {
+      "text": "pepperoni",
+      "start": 23.46,
+      "end": 23.9,
+      "type": "word",
+      "logprob": -0.000002145764938177308
+    },
+    {
+      "text": " ",
+      "start": 23.9,
+      "end": 23.96,
+      "type": "spacing",
+      "logprob": -0.00001811964830267243
+    },
+    {
+      "text": "pizza",
+      "start": 23.96,
+      "end": 24.28,
+      "type": "word",
+      "logprob": -0.00001811964830267243
+    },
+    {
+      "text": " ",
+      "start": 24.28,
+      "end": 24.34,
+      "type": "spacing",
+      "logprob": -0.0000066756979322235566
+    },
+    {
+      "text": "to",
+      "start": 24.34,
+      "end": 24.44,
+      "type": "word",
+      "logprob": -0.0000066756979322235566
+    },
+    {
+      "text": " ",
+      "start": 24.44,
+      "end": 24.48,
+      "type": "spacing",
+      "logprob": -0.000004529942543740617
+    },
+    {
+      "text": "my",
+      "start": 24.48,
+      "end": 24.66,
+      "type": "word",
+      "logprob": -0.000004529942543740617
+    },
+    {
+      "text": " ",
+      "start": 24.66,
+      "end": 24.72,
+      "type": "spacing",
+      "logprob": -0.00007450303382938728
+    },
+    {
+      "text": "favorite.",
+      "start": 24.72,
+      "end": 25.26,
+      "type": "word",
+      "logprob": -0.0000696289543055981
+    },
+    {
+      "text": " ",
+      "start": 25.26,
+      "end": 25.26,
+      "type": "spacing",
+      "logprob": -0.0014448452275246382
+    },
+    {
+      "text": "Save",
+      "start": 29.46,
+      "end": 29.74,
+      "type": "word",
+      "logprob": -0.0014448452275246382
+    },
+    {
+      "text": " ",
+      "start": 29.74,
+      "end": 29.84,
+      "type": "spacing",
+      "logprob": -0.000007629365427419543
+    },
+    {
+      "text": "pepperoni",
+      "start": 29.84,
+      "end": 30.32,
+      "type": "word",
+      "logprob": -0.000007629365427419543
+    },
+    {
+      "text": " ",
+      "start": 30.32,
+      "end": 30.44,
+      "type": "spacing",
+      "logprob": -0.000022291887944447808
+    },
+    {
+      "text": "pizza",
+      "start": 30.44,
+      "end": 30.88,
+      "type": "word",
+      "logprob": -0.000022291887944447808
+    },
+    {
+      "text": " ",
+      "start": 30.88,
+      "end": 31.12,
+      "type": "spacing",
+      "logprob": -0.000005483612312673358
+    },
+    {
+      "text": "to",
+      "start": 31.12,
+      "end": 31.36,
+      "type": "word",
+      "logprob": -0.000005483612312673358
+    },
+    {
+      "text": " ",
+      "start": 31.36,
+      "end": 31.6,
+      "type": "spacing",
+      "logprob": -0.0000040531076592742465
+    },
+    {
+      "text": "my",
+      "start": 31.6,
+      "end": 31.86,
+      "type": "word",
+      "logprob": -0.0000040531076592742465
+    },
+    {
+      "text": " ",
+      "start": 31.86,
+      "end": 31.98,
+      "type": "spacing",
+      "logprob": -0.00004970903682988137
+    },
+    {
+      "text": "favorite.",
+      "start": 31.98,
+      "end": 32.479,
+      "type": "word",
+      "logprob": -0.0014345829452698429
+    }
+  ],
+  "transcription_id": "0V3m6imi1N8fUr93phKm",
+  "audio_duration_secs": 39.1720625
+}

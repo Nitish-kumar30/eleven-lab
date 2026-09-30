@@ -1,0 +1,226 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Add french fries and sandwich to my favorite. Add french fries and sandwich to my favorite.",
+  "words": [
+    {
+      "text": "Add",
+      "start": 8.38,
+      "end": 8.68,
+      "type": "word",
+      "logprob": -0.020712275058031082
+    },
+    {
+      "text": " ",
+      "start": 8.68,
+      "end": 8.86,
+      "type": "spacing",
+      "logprob": -0.42900577187538147
+    },
+    {
+      "text": "french",
+      "start": 8.86,
+      "end": 9.24,
+      "type": "word",
+      "logprob": -0.42900577187538147
+    },
+    {
+      "text": " ",
+      "start": 9.24,
+      "end": 9.32,
+      "type": "spacing",
+      "logprob": -0.000047801782784517854
+    },
+    {
+      "text": "fries",
+      "start": 9.4,
+      "end": 9.8,
+      "type": "word",
+      "logprob": -0.000047801782784517854
+    },
+    {
+      "text": " ",
+      "start": 9.8,
+      "end": 9.92,
+      "type": "spacing",
+      "logprob": -4.768370445162873e-7
+    },
+    {
+      "text": "and",
+      "start": 9.92,
+      "end": 10.16,
+      "type": "word",
+      "logprob": -4.768370445162873e-7
+    },
+    {
+      "text": " ",
+      "start": 10.16,
+      "end": 10.2,
+      "type": "spacing",
+      "logprob": -0.003912889864295721
+    },
+    {
+      "text": "sandwich",
+      "start": 10.34,
+      "end": 10.96,
+      "type": "word",
+      "logprob": -0.003912889864295721
+    },
+    {
+      "text": " ",
+      "start": 10.96,
+      "end": 11,
+      "type": "spacing",
+      "logprob": -8.344646857949556e-7
+    },
+    {
+      "text": "to",
+      "start": 11,
+      "end": 11.2,
+      "type": "word",
+      "logprob": -8.344646857949556e-7
+    },
+    {
+      "text": " ",
+      "start": 11.2,
+      "end": 11.26,
+      "type": "spacing",
+      "logprob": -0.000004887569048150908
+    },
+    {
+      "text": "my",
+      "start": 11.26,
+      "end": 11.42,
+      "type": "word",
+      "logprob": -0.000004887569048150908
+    },
+    {
+      "text": " ",
+      "start": 11.42,
+      "end": 11.54,
+      "type": "spacing",
+      "logprob": -0.12291913479566574
+    },
+    {
+      "text": "favorite.",
+      "start": 11.54,
+      "end": 11.96,
+      "type": "word",
+      "logprob": -0.10928310739594356
+    },
+    {
+      "text": " ",
+      "start": 11.96,
+      "end": 11.96,
+      "type": "spacing",
+      "logprob": -0.024483572691679
+    },
+    {
+      "text": "Add",
+      "start": 27.1,
+      "end": 27.42,
+      "type": "word",
+      "logprob": -0.024483572691679
+    },
+    {
+      "text": " ",
+      "start": 27.42,
+      "end": 27.56,
+      "type": "spacing",
+      "logprob": -0.0010247938334941864
+    },
+    {
+      "text": "french",
+      "start": 27.6,
+      "end": 28,
+      "type": "word",
+      "logprob": -0.0010247938334941864
+    },
+    {
+      "text": " ",
+      "start": 28,
+      "end": 28.12,
+      "type": "spacing",
+      "logprob": -0.00001728519782773219
+    },
+    {
+      "text": "fries",
+      "start": 28.12,
+      "end": 28.56,
+      "type": "word",
+      "logprob": -0.00001728519782773219
+    },
+    {
+      "text": " ",
+      "start": 28.56,
+      "end": 28.68,
+      "type": "spacing",
+      "logprob": -0.000007867782187531702
+    },
+    {
+      "text": "and",
+      "start": 28.68,
+      "end": 28.96,
+      "type": "word",
+      "logprob": -0.000007867782187531702
+    },
+    {
+      "text": " ",
+      "start": 28.96,
+      "end": 29.08,
+      "type": "spacing",
+      "logprob": -0.000019550132492440753
+    },
+    {
+      "text": "sandwich",
+      "start": 29.08,
+      "end": 29.74,
+      "type": "word",
+      "logprob": -0.000019550132492440753
+    },
+    {
+      "text": " ",
+      "start": 29.74,
+      "end": 29.94,
+      "type": "spacing",
+      "logprob": 0
+    },
+    {
+      "text": "to",
+      "start": 29.94,
+      "end": 30.06,
+      "type": "word",
+      "logprob": 0
+    },
+    {
+      "text": " ",
+      "start": 30.06,
+      "end": 30.12,
+      "type": "spacing",
+      "logprob": -5.960462772236497e-7
+    },
+    {
+      "text": "my",
+      "start": 30.12,
+      "end": 30.28,
+      "type": "word",
+      "logprob": -5.960462772236497e-7
+    },
+    {
+      "text": " ",
+      "start": 30.28,
+      "end": 30.34,
+      "type": "spacing",
+      "logprob": -0.002925166627392173
+    },
+    {
+      "text": "favorite.",
+      "start": 30.34,
+      "end": 30.76,
+      "type": "word",
+      "logprob": -0.004883165367775493
+    }
+  ],
+  "transcription_id": "iRmSZhwhWhbBxwgZKOA1",
+  "audio_duration_secs": 37.9109375
+}

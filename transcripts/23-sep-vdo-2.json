@@ -1,0 +1,191 @@
+{
+  "language_code": "eng",
+  "language_probability": 1,
+  "text": "Remove pepperoni pizza from my favorite. The pepperoni pizza, isn't it your favorite? ",
+  "words": [
+    {
+      "text": "Remove",
+      "start": 2.08,
+      "end": 2.46,
+      "type": "word",
+      "logprob": -0.031423065811395645
+    },
+    {
+      "text": " ",
+      "start": 2.46,
+      "end": 2.5,
+      "type": "spacing",
+      "logprob": -0.004495514556765556
+    },
+    {
+      "text": "pepperoni",
+      "start": 2.5,
+      "end": 3.04,
+      "type": "word",
+      "logprob": -0.004495514556765556
+    },
+    {
+      "text": " ",
+      "start": 3.04,
+      "end": 3.12,
+      "type": "spacing",
+      "logprob": -0.00009083335316972807
+    },
+    {
+      "text": "pizza",
+      "start": 3.12,
+      "end": 3.48,
+      "type": "word",
+      "logprob": -0.00009083335316972807
+    },
+    {
+      "text": " ",
+      "start": 3.48,
+      "end": 3.58,
+      "type": "spacing",
+      "logprob": -0.000005960446742392378
+    },
+    {
+      "text": "from",
+      "start": 3.58,
+      "end": 3.9,
+      "type": "word",
+      "logprob": -0.000005960446742392378
+    },
+    {
+      "text": " ",
+      "start": 3.9,
+      "end": 3.98,
+      "type": "spacing",
+      "logprob": -0.00006758938252460212
+    },
+    {
+      "text": "my",
+      "start": 3.98,
+      "end": 4.14,
+      "type": "word",
+      "logprob": -0.00006758938252460212
+    },
+    {
+      "text": " ",
+      "start": 4.14,
+      "end": 4.22,
+      "type": "spacing",
+      "logprob": -0.02147376537322998
+    },
+    {
+      "text": "favorite.",
+      "start": 4.22,
+      "end": 4.82,
+      "type": "word",
+      "logprob": -0.020458827312621806
+    },
+    {
+      "text": " ",
+      "start": 4.82,
+      "end": 4.84,
+      "type": "spacing",
+      "logprob": -0.004309771116822958
+    },
+    {
+      "text": "The",
+      "start": 13.6,
+      "end": 13.68,
+      "type": "word",
+      "logprob": -0.002204251941293478
+    },
+    {
+      "text": " ",
+      "start": 13.68,
+      "end": 13.72,
+      "type": "spacing",
+      "logprob": -0.021960655227303505
+    },
+    {
+      "text": "pepperoni",
+      "start": 13.72,
+      "end": 14.26,
+      "type": "word",
+      "logprob": -0.021960655227303505
+    },
+    {
+      "text": " ",
+      "start": 14.26,
+      "end": 14.3,
+      "type": "spacing",
+      "logprob": -0.00005411955135059543
+    },
+    {
+      "text": "pizza,",
+      "start": 14.3,
+      "end": 14.78,
+      "type": "word",
+      "logprob": -0.003232305579028131
+    },
+    {
+      "text": " ",
+      "start": 14.78,
+      "end": 15.02,
+      "type": "spacing",
+      "logprob": -0.0016276695532724261
+    },
+    {
+      "text": "isn't",
+      "start": 15.02,
+      "end": 15.22,
+      "type": "word",
+      "logprob": -0.000978389863303164
+    },
+    {
+      "text": " ",
+      "start": 15.22,
+      "end": 15.26,
+      "type": "spacing",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": "it",
+      "start": 15.26,
+      "end": 15.36,
+      "type": "word",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": " ",
+      "start": 15.36,
+      "end": 15.4,
+      "type": "spacing",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": "your",
+      "start": 15.4,
+      "end": 15.5,
+      "type": "word",
+      "logprob": -9.536738616588991e-7
+    },
+    {
+      "text": " ",
+      "start": 15.5,
+      "end": 15.56,
+      "type": "spacing",
+      "logprob": -0.000012874520507466514
+    },
+    {
+      "text": "favorite?",
+      "start": 15.56,
+      "end": 16,
+      "type": "word",
+      "logprob": -0.00001647718535322282
+    },
+    {
+      "text": " ",
+      "start": 16,
+      "end": 16,
+      "type": "spacing",
+      "logprob": -0.0008087463211268187
+    }
+  ],
+  "transcription_id": "hshXhtgMuOyGtHWdtO1s",
+  "audio_duration_secs": 20.544
+}
