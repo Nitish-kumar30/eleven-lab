@@ -1,24 +1,5 @@
 [
-  {
-    "id": "11-sep-vdo-1",
-    "title": "11 sep vdo 1",
-    "source": "video/11 sep/11 sep vdo 1.mp4",
-    "page": 1,
-    "indexOnPage": 1,
-    "pageSize": 2,
-    "existingTranscript": "",
-    "transcribed": false
-  },
-  {
-    "id": "11-sep-vdo-2",
-    "title": "11 sep vdo 2",
-    "source": "video/11 sep/11 sep vdo 2.mp4",
-    "page": 1,
-    "indexOnPage": 2,
-    "pageSize": 2,
-    "existingTranscript": "",
-    "transcribed": false
-  },
+  
   {
     "id": "18-sep-vdo-1",
     "title": "18 sep vdo 1",

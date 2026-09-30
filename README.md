@@ -1,6 +1,6 @@
 # Local video transcription
 
-Transcribe videos listed in `video3.json` with ElevenLabs Speech-to-Text (`scribe_v2`). The API key stays on the server. Each video gets a new single-use token immediately before upload. Transcripts are written under `./transcripts/` only. Nothing is saved back to a website.
+Transcribe videos listed in `video2.json` with ElevenLabs Speech-to-Text (`scribe_v2`). The API key stays on the server. Each video gets a new single-use token immediately before upload. Transcripts are written under `./transcripts/` only. Nothing is saved back to a website.
 
 Language is English (`language_code=en`). Speaker diarization and audio-event tags are off.
 
@@ -15,7 +15,7 @@ copy .env.example .env
 
 Set `ELEVENLABS_API_KEY` in `.env`. Do not commit `.env`.
 
-Edit `video3.json`. Each entry:
+Edit `video2.json`. Each entry:
 
 - `id` — used as the transcript filename
 - `title` — shown in the report
@@ -39,7 +39,7 @@ In another terminal, transcribe every video that still needs a transcript. Each 
 node run.js
 ```
 
-`run.js` starts the token server itself when it is not already listening. Pass `--limit 2` to stop after two videos. A finished video is recorded in `transcribed.json`, not by rewriting `video3.json`. A later run skips those ids.
+`run.js` starts the token server itself when it is not already listening. Pass `--limit 2` to stop after two videos. A finished video is recorded in `transcribed.json`, not by rewriting `video2.json`. A later run skips those ids.
 
 Outputs:
 
