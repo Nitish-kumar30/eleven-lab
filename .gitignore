@@ -2,7 +2,3 @@ node_modules/
 .env
 tmp/
 transcripts/
-video/
-*.mp4
-*.mov
-*.mkv
